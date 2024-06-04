@@ -8,3 +8,11 @@ This is an example git repository
 
 ## Examples
 Oooo look at this
+
+
+## Installation
+Test
+
+## Usage
+
+to use press any key:
